@@ -2,9 +2,9 @@
 
 ## Description
 
-I was on the hunt...the hunt for the perfect, out-of-the-box WordPress settings framework that I could use to easily incorporate a custom options page into plugin projects on the fly.
+I was on the hunt for the perfect, out-of-the-box WordPress settings framework that I could use to easily incorporate a custom options page into plugin projects on the fly.
 
-After no small amount of searching, I decided I should probably just roll up my sleeves and build something myself.
+After no small amount of searching, I decided I should probably just roll up my sleeves and build my own.
 
 ## FAQs
 
@@ -30,6 +30,11 @@ Right now you can create the following fields using this framework:
 Simply follow the lead of the example settings arrays around line 140 of `admin.php`. (More explanatory documentation coming shortly!)
 
 ## Changelog
+
+### 1.1
+* Refactor plugin settings class.
+* Expand localization.
+* Add sample plugin uninstall file.
 
 ### 1.0
 * Framework initial release.
